@@ -9,13 +9,14 @@
 #define IDC_STAIRWAY                    1004
 #define IDC_MOVEX                       1005
 #define IDC_MOVEY                       1006
-#define IDCSTOP                         1007
-#define IDC_STOP                        1008
+#define IDC_STOP                         1007
+#define IDC_RESET                       1008
+#define IDC_RESET                       1008
 #define IDC_CYAN                        1009
 #define IDC_MEGENTA                     1010
 #define IDC_YELLO                       1011
 #define IDC_CHECK4                      1012
-#define IDC_REVERS                      1012
+#define IDC_REVERS                      1014
 #define IDC_CIRCLE                      1013
 
 // Next default values for new objects
