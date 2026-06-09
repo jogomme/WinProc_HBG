@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="차일드 윈도우/차일드 윈도우.vcxproj" />
+  <Project Path="차일드 윈도우/차일드 윈도우.vcxproj" Id="12d10527-752e-4d4a-b4a9-5775527e6ae1" />
 </Solution>
